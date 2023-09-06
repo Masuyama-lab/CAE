@@ -2,10 +2,10 @@
 
 (c) 2022 Naoki Masuyama
 
-for Python:
+Python: <br>
 Run "mainCAE.py"
 
-for MATLAB:
+MATLAB: <br>
 Run "mainCAE.m"
 
 
