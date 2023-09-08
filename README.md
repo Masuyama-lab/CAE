@@ -3,7 +3,7 @@
 (c) 2022 Naoki Masuyama
 
 Python: <br>
-Run "mainCAE.py", or visit <a href="[https://doi.org/10.24433/CO.8848479.v1]" target="_blank">Code Ocean</a>.
+Run "mainCAE.py", or visit [Code Ocean](https://doi.org/10.24433/CO.8848479.v1)
 
 MATLAB: <br>
 Run "mainCAE.m"
