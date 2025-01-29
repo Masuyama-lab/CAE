@@ -53,7 +53,7 @@ for sampleNum = 1:size(DATA,1)
             Corr = 1-CIM(weight(numNodes,:),weight,median(sigma));
             divMat(numNodes,1:numNodes) = Corr'; 
             divMat(1:numNodes,numNodes) = Corr;  
-            Div = det(divMat);
+            Div = det(exp(divMat));
             
             if  Div < div_threshold && size(weight ,1) >= n_init_data
                 numActiveNode = numNodes;
