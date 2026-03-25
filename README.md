@@ -11,7 +11,7 @@ Run "mainCAE.m"
 
 Reference:<br>
 N. Masuyama, T. Takebayashi, Y. Nojima, C. K. Loo, H. Ishibuchi, and S. Wermter, <br>
-A Parameter-Free Adaptive Resonance Theory-based Topological Clustering Algorithm Capable of Continual Learning, <br>
+[A Parameter-Free Adaptive Resonance Theory-based Topological Clustering Algorithm Capable of Continual Learning](https://doi.org/10.1007/s00521-026-11907-5), <br>
 Neural Computing and Applications, vol. 38, no. 217, March 2026.
 
 Please contact masuyama@omu.ac.jp if you have any problems.
